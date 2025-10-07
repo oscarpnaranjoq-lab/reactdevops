@@ -23,6 +23,10 @@ function App() {
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR - prueba de CI/CD
+          Grupo 1
+          <h1>Oscar Naranjo</h1>
+          <h1>Omar Chimba</h1>
+          <h1>Raul Portero</h1>
         </p>
       </div>
       <p className="read-the-docs">
