@@ -21,5 +21,5 @@ jobs:
     - name: Instalación de Surge
       run: npm install --global surge
     - name: Desplegar la App
-      run: surge ./dist somber-throat.surge.sh --token f364c30728138d1e11a91374f4a871ca
+      run: surge ./dist humdrum-sort.surge.sh --token c6b81ff7f91e97c46f3ba98835f3cd17
       #run: surge ./dist zealous-cracker.surge.sh --token f364c30728138d1e11a91374f4a871ca
